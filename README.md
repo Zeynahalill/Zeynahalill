@@ -79,7 +79,7 @@ I aim to specialize in **AI Engineering**, especially in systems that combine re
 </p> -->
 
  <p align="center"> <img src="https://streak-stats.demolab.com?user=Zeynahalill&theme=tokyonight&hide_border=true"/> </p> 
----
+
 
 ## 🌐 Connect With Me
 
