@@ -78,10 +78,7 @@ I aim to specialize in **AI Engineering**, especially in systems that combine re
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeynahalill&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zeynahalill&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
+<!-- <p align="center"> <img src="https://streak-stats.demolab.com?user=Zeynahalill&theme=tokyonight&hide_border=true"/> </p> -->
 ---
 
 ## 🌐 Connect With Me
