@@ -13,9 +13,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=B57EDC&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Autonomous+Systems+%2B+AI+Engineering;Exploring+LLMs%2C+RAG+%26+AI+Agents;Creating+Real-World+AI+Applications" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
+<!-- HUD / neural-network hero visual — save the accompanying hero-banner.svg to ./assets/hero-banner.svg -->
+<img src="./assets/hero-banner.svg" width="100%" alt="AI systems HUD banner"/>
 
 </div>
 
@@ -23,68 +24,35 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="28"> About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Zeyna Halil"
-        self.role = "Autonomous Systems + AI Engineer"
-        self.focus = ["LLMs", "RAG", "AI Agents", "Autonomous Platforms"]
-        self.mission = "Designing intelligent systems that perceive, reason, and act"
+<table width="100%">
+<tr>
+<td width="40%" valign="top">
 
-    def current_work(self):
-        return "Engineering multimodal, agentic AI architectures for real-world deployment"
+```
+╭──────────────────────────────╮
+│  ZEYNA HALIL                 │
+│  AI ENGINEER                 │
+│ ───────────────────────────  │
+│  FOCUS                       │
+│   ◉ LLM Systems              │
+│   ◉ AI Agents                │
+│   ◉ Multimodal AI            │
+│   ◉ Autonomous Systems       │
+│ ───────────────────────────  │
+│  Building intelligence that  │
+│  can perceive, reason and    │
+│  act.                        │
+╰──────────────────────────────╯
 ```
 
-I'm an **aspiring AI Engineer** and Software Engineering student focused on building **intelligent, autonomous systems** — bridging large language models, retrieval architectures, multimodal perception, and robotics into unified, real-world platforms.
-
-My work sits at the intersection of **AI reasoning** and **autonomous action** — building assistants, agents, and perception systems that don't just respond, but *decide*.
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="28"> AI Expertise
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Large Language Models
-- Prompt Engineering & optimization
-- LLM-powered applications
-- Conversational AI assistants
-
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🔎 Retrieval-Augmented Generation
-- Vector search architectures
-- Knowledge retrieval pipelines
-- FAISS-based semantic systems
+Software Engineering student specializing in **Artificial Intelligence and Autonomous Systems**.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+I design and build **LLM-driven architectures**, **agentic workflows**, and **multimodal intelligence pipelines** that move from prototype to real-world deployment — connecting language reasoning, retrieval, perception, and autonomous decision-making into a single working system.
 
-### 🤖 AI Agents
-- Multi-agent architectures
-- Autonomous decision workflows
-- Tool-augmented reasoning
-
-</td>
-<td width="50%" valign="top">
-
-### 👁 Multimodal AI
-- Vision + Language systems
-- Intelligent perception pipelines
-- Cross-modal understanding
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🧬 Machine Learning
-Deep Learning architectures · Model experimentation · Training & evaluation pipelines
+My focus is systems that don't just generate output — they **perceive context, reason through it, and act on it autonomously.**
 
 </td>
 </tr>
@@ -92,34 +60,98 @@ Deep Learning architectures · Model experimentation · Training & evaluation pi
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="28"> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="28"> AI Expertise
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🧠 LLM ENGINEERING**
+
+Designing intelligent language systems — from prompt architecture to production assistants.
+
+![](https://img.shields.io/badge/GPT-8A2BE2?style=flat-square) ![](https://img.shields.io/badge/Prompting-00BFFF?style=flat-square) ![](https://img.shields.io/badge/Assistants-FF36AB?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**🔎 RAG ARCHITECTURES**
+
+Vector-based retrieval systems connecting knowledge bases to reasoning models.
+
+![](https://img.shields.io/badge/FAISS-8A2BE2?style=flat-square) ![](https://img.shields.io/badge/Vector%20Search-00BFFF?style=flat-square) ![](https://img.shields.io/badge/Embeddings-FF36AB?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI AGENTS**
+
+Multi-agent systems that plan, delegate, and execute autonomous decision workflows.
+
+![](https://img.shields.io/badge/LangChain-8A2BE2?style=flat-square) ![](https://img.shields.io/badge/Orchestration-00BFFF?style=flat-square) ![](https://img.shields.io/badge/Autonomy-FF36AB?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**👁 MULTIMODAL AI**
+
+Vision + language systems fused for real-world perception and understanding.
+
+![](https://img.shields.io/badge/Computer%20Vision-8A2BE2?style=flat-square) ![](https://img.shields.io/badge/Perception-00BFFF?style=flat-square) ![](https://img.shields.io/badge/Fusion-FF36AB?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="28"> Technology Ecosystem
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+**⚡ AI CORE**
+
+<img src="https://img.shields.io/badge/PyTorch-050505?style=for-the-badge&logo=pytorch&logoColor=8A2BE2"/><br/>
+<img src="https://img.shields.io/badge/HuggingFace-050505?style=for-the-badge&logo=huggingface&logoColor=8A2BE2"/><br/>
+<img src="https://img.shields.io/badge/LangChain-050505?style=for-the-badge&logo=langchain&logoColor=8A2BE2"/><br/>
+<img src="https://img.shields.io/badge/FAISS-050505?style=for-the-badge&logo=meta&logoColor=8A2BE2"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**👁 VISION**
+
+<img src="https://img.shields.io/badge/OpenCV-050505?style=for-the-badge&logo=opencv&logoColor=00BFFF"/><br/>
+<img src="https://img.shields.io/badge/Roboflow-050505?style=for-the-badge&logo=roboflow&logoColor=00BFFF"/><br/>
+<img src="https://img.shields.io/badge/NumPy-050505?style=for-the-badge&logo=numpy&logoColor=00BFFF"/><br/>
+<img src="https://img.shields.io/badge/Pandas-050505?style=for-the-badge&logo=pandas&logoColor=00BFFF"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🛰 AUTONOMY**
+
+<img src="https://img.shields.io/badge/ROS2-050505?style=for-the-badge&logo=ros&logoColor=FF36AB"/><br/>
+<img src="https://img.shields.io/badge/Gazebo-050505?style=for-the-badge&logo=gazebo&logoColor=FF36AB"/><br/>
+<img src="https://img.shields.io/badge/Arduino-050505?style=for-the-badge&logo=arduino&logoColor=FF36AB"/><br/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-050505?style=for-the-badge&logo=raspberrypi&logoColor=FF36AB"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**Programming**
+**CORE LANGUAGES**
 
-<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/C++-050505?style=for-the-badge&logo=cplusplus&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=B57EDC"/>
-
-**AI / Machine Learning**
-
-<img src="https://img.shields.io/badge/PyTorch-050505?style=for-the-badge&logo=pytorch&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/HuggingFace-050505?style=for-the-badge&logo=huggingface&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/LangChain-050505?style=for-the-badge&logo=langchain&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/OpenCV-050505?style=for-the-badge&logo=opencv&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/NumPy-050505?style=for-the-badge&logo=numpy&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/Pandas-050505?style=for-the-badge&logo=pandas&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/FAISS-050505?style=for-the-badge&logo=meta&logoColor=B57EDC"/>
-
-**Robotics / Autonomous Systems**
-
-<img src="https://img.shields.io/badge/ROS2-050505?style=for-the-badge&logo=ros&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/Gazebo-050505?style=for-the-badge&logo=gazebo&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/Arduino-050505?style=for-the-badge&logo=arduino&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-050505?style=for-the-badge&logo=raspberrypi&logoColor=B57EDC"/>
-<img src="https://img.shields.io/badge/Roboflow-050505?style=for-the-badge&logo=roboflow&logoColor=B57EDC"/>
+<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/C++-050505?style=for-the-badge&logo=cplusplus&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=D8B4FE"/>
 
 </div>
 
@@ -127,24 +159,51 @@ Deep Learning architectures · Model experimentation · Training & evaluation pi
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="28"> Featured Projects
 
-<table>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Multi-Agent Platform
+
+An intelligent agent ecosystem combining LLM reasoning, retrieval, and autonomous workflows — built for public-sector deployment.
+
+**Stack:** ![](https://img.shields.io/badge/LLM-8A2BE2?style=flat-square) ![](https://img.shields.io/badge/RAG-00BFFF?style=flat-square) ![](https://img.shields.io/badge/Agents-FF36AB?style=flat-square) ![](https://img.shields.io/badge/LangChain-B57EDC?style=flat-square)
+
+**Impact:** Unified multi-agent orchestration across retrieval, reasoning, and task execution.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰 Autonomous Systems Research
+
+AI-driven autonomous platforms fusing robotics, perception, and real-time decision-making for navigation and interaction.
+
+**Stack:** ![](https://img.shields.io/badge/ROS2-8A2BE2?style=flat-square) ![](https://img.shields.io/badge/Gazebo-00BFFF?style=flat-square) ![](https://img.shields.io/badge/Vision-FF36AB?style=flat-square) ![](https://img.shields.io/badge/Robotics-B57EDC?style=flat-square)
+
+**Impact:** Perception-to-action pipeline for autonomous platform navigation.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧪 AI LAB — Active Research
+
+<table width="100%">
 <tr>
 <td width="50%">
 
-### 🧩 AI Multi-Agent Assistant System
-
-An AI system combining multiple intelligent agents into a unified architecture for public-sector use cases — orchestrating retrieval, reasoning, and task execution across specialized agents.
-
-`LLM` `RAG` `AI Agents` `LangChain` `Vector DB`
+`⟶` **LLM Fine-Tuning** — adapting foundation models to specialized tasks
+`⟶` **RAG Architectures** — retrieval pipelines for grounded generation
+`⟶` **Multimodal AI** — vision-language fusion for perception systems
 
 </td>
 <td width="50%">
 
-### 🛰 Autonomous Systems Research
-
-Exploring AI-driven autonomous platforms combining robotics, perception, and intelligent decision-making for real-world navigation and interaction.
-
-`ROS2` `Gazebo` `Computer Vision` `Robotics`
+`⟶` **Computer Vision** — real-time detection & scene understanding
+`⟶` **Autonomous Decision Systems** — agentic planning under uncertainty
+`⟶` **Agentic Workflows** — multi-agent coordination architectures
 
 </td>
 </tr>
@@ -158,6 +217,13 @@ Exploring AI-driven autonomous platforms combining robotics, perception, and int
 
 🏆 **FinTech Competition Award** — 1st Place, Istanbul Gelişim University FinTech Category
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
+<sub>// COMPILING ACTIVITY LOG...</sub>
 </div>
 
 <br/>
