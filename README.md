@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8A2BE2,100:050505&height=220&section=header&text=ZEYNA%20HALIL&fontSize=60&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=Autonomous%20Systems%20%2B%20AI%20Engineer&descAlignY=58&descColor=B57EDC" width="100%"/>
+<!-- static AI research-lab banner — save the accompanying hero-banner.png to ./assets/hero-banner.png -->
+<img src="./assets/hero-banner.png" width="100%" alt="AI research laboratory banner"/>
 
 <br/>
 
@@ -13,50 +14,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=B57EDC&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Autonomous+Systems+%2B+AI+Engineering;Exploring+LLMs%2C+RAG+%26+AI+Agents;Creating+Real-World+AI+Applications" alt="Typing SVG" />
 
-<br/><br/>
-
-<!-- HUD / neural-network hero visual — save the accompanying hero-banner.svg to ./assets/hero-banner.svg -->
-<img src="./assets/hero-banner.svg" width="100%" alt="AI systems HUD banner"/>
-
 </div>
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="28"> About Me
+## <img src="./assets/icon-neural.svg" width="28"> About Me
 
-<table width="100%">
-<tr>
-<td width="40%" valign="top">
+<div align="center">
 
-```
-╭──────────────────────────────╮
-│  ZEYNA HALIL                 │
-│  AI ENGINEER                 │
-│ ───────────────────────────  │
-│  FOCUS                       │
-│   ◉ LLM Systems              │
-│   ◉ AI Agents                │
-│   ◉ Multimodal AI            │
-│   ◉ Autonomous Systems       │
-│ ───────────────────────────  │
-│  Building intelligence that  │
-│  can perceive, reason and    │
-│  act.                        │
-╰──────────────────────────────╯
-```
+<!-- AI identity panel — save the accompanying about-card.svg to ./assets/about-card.svg -->
+<img src="./assets/about-card.svg" width="100%" alt="AI engineer identity panel"/>
 
-</td>
-<td width="60%" valign="top">
-
-Software Engineering student specializing in **Artificial Intelligence and Autonomous Systems**.
-
-I design and build **LLM-driven architectures**, **agentic workflows**, and **multimodal intelligence pipelines** that move from prototype to real-world deployment — connecting language reasoning, retrieval, perception, and autonomous decision-making into a single working system.
-
-My focus is systems that don't just generate output — they **perceive context, reason through it, and act on it autonomously.**
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -109,36 +78,51 @@ Vision + language systems fused for real-world perception and understanding.
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="28"> Technology Ecosystem
 
+<div align="center">
+
+`◈─────────────────────────── SYSTEM MAP ───────────────────────────◈`
+
+</div>
+
 <table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="100%" align="center">
 
-**⚡ AI CORE**
+**🧠 AI CORE**
+<br/>
 
-<img src="https://img.shields.io/badge/PyTorch-050505?style=for-the-badge&logo=pytorch&logoColor=8A2BE2"/><br/>
-<img src="https://img.shields.io/badge/HuggingFace-050505?style=for-the-badge&logo=huggingface&logoColor=8A2BE2"/><br/>
-<img src="https://img.shields.io/badge/LangChain-050505?style=for-the-badge&logo=langchain&logoColor=8A2BE2"/><br/>
-<img src="https://img.shields.io/badge/FAISS-050505?style=for-the-badge&logo=meta&logoColor=8A2BE2"/>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**👁 VISION**
-
-<img src="https://img.shields.io/badge/OpenCV-050505?style=for-the-badge&logo=opencv&logoColor=00BFFF"/><br/>
-<img src="https://img.shields.io/badge/Roboflow-050505?style=for-the-badge&logo=roboflow&logoColor=00BFFF"/><br/>
-<img src="https://img.shields.io/badge/NumPy-050505?style=for-the-badge&logo=numpy&logoColor=00BFFF"/><br/>
-<img src="https://img.shields.io/badge/Pandas-050505?style=for-the-badge&logo=pandas&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/PyTorch-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-9D4EDD?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-7B2FF7?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-6A0DAD?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-A970FF?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-B57EDC?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 </td>
-<td width="33%" valign="top" align="center">
+</tr>
+<tr>
+<td width="100%" align="center">
 
-**🛰 AUTONOMY**
+**👁 COMPUTER VISION**
+<br/>
 
-<img src="https://img.shields.io/badge/ROS2-050505?style=for-the-badge&logo=ros&logoColor=FF36AB"/><br/>
-<img src="https://img.shields.io/badge/Gazebo-050505?style=for-the-badge&logo=gazebo&logoColor=FF36AB"/><br/>
-<img src="https://img.shields.io/badge/Arduino-050505?style=for-the-badge&logo=arduino&logoColor=FF36AB"/><br/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-050505?style=for-the-badge&logo=raspberrypi&logoColor=FF36AB"/>
+<img src="https://img.shields.io/badge/OpenCV-00BFFF?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Roboflow-1E90FF?style=for-the-badge&logo=roboflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multimodal%20Fusion-3AA0FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perception%20Pipelines-5FB4FF?style=for-the-badge&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="100%" align="center">
+
+**🤖 AUTONOMOUS SYSTEMS**
+<br/>
+
+<img src="https://img.shields.io/badge/ROS2-FF36AB?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gazebo-E4419C?style=for-the-badge&logo=gazebo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-D93E9C?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C13A9E?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 
 </td>
 </tr>
@@ -146,12 +130,14 @@ Vision + language systems fused for real-world perception and understanding.
 
 <div align="center">
 
+`◈──────────────────────────────────────────────────────────────────◈`
+
 **CORE LANGUAGES**
 
 <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=D8B4FE"/>
-<img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=D8B4FE"/>
-<img src="https://img.shields.io/badge/C++-050505?style=for-the-badge&logo=cplusplus&logoColor=D8B4FE"/>
-<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/C++-050505?style=for-the-badge&logo=cplusplus&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=FF36AB"/>
 
 </div>
 
