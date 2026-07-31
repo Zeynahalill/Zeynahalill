@@ -224,8 +224,7 @@ AI-driven autonomous platforms fusing robotics, perception, and real-time decisi
 </picture>
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=zeynahalil&show_icons=true&hide_border=true&bg_color=050505&title_color=B57EDC&icon_color=8A2BE2&text_color=D8B4FE&hide_rank=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeynahalil&show_icons=true&theme=transparent&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynahalil&hide_border=true&background=050505&ring=8A2BE2&fire=B57EDC&currStreakLabel=D8B4FE&sideLabels=D8B4FE&dates=B57EDC" width="48%" />
 
 <br/>
