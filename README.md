@@ -292,7 +292,6 @@ AI-driven autonomous platforms fusing robotics, perception, and real-time decisi
 </div>
 
 <br/>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="28"> GitHub Analytics
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="28"> GitHub Analytics
 
@@ -312,15 +311,6 @@ AI-driven autonomous platforms fusing robotics, perception, and real-time decisi
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeynahalil&bg_color=050505&color=D8B4FE&line=8A2BE2&point=B57EDC&hide_border=true&area=true" width="97%" />
-
-</div>
-
-<br/>
-## 🧠 AI SYSTEM CORE
-
-<div align="center">
-
-<img src="./assets/ai-core.gif" width="90%" alt="AI Autonomous Intelligence Core"/>
 
 </div>
 <div align="center">
