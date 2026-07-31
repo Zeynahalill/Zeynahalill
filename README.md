@@ -308,17 +308,7 @@ AI-driven autonomous platforms fusing robotics, perception, and real-time decisi
 
 <br/><br/>
 
-
-
-
-
-
-<br/><br/>
-
 </div>
-
-
-<br/>
 
 ## 🧠 AI SYSTEM CORE
 
@@ -329,7 +319,6 @@ AI-driven autonomous platforms fusing robotics, perception, and real-time decisi
 </div>
 
 <br/>
-
 
 
 <div align="center">
