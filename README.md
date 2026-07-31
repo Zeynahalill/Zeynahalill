@@ -292,15 +292,36 @@ AI-driven autonomous platforms fusing robotics, perception, and real-time decisi
 <br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="28"> GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="28"> GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeynahalil&show_icons=true&hide_border=true&theme=transparent" width="48%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynahalil&hide_border=true&theme=transparent" width="48%" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=zeynahalil&show_icons=true&hide_border=true&bg_color=050505&title_color=B57EDC&icon_color=8A2BE2&text_color=D8B4FE&hide_rank=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynahalil&hide_border=true&background=050505&ring=8A2BE2&fire=B57EDC&currStreakLabel=D8B4FE&sideLabels=D8B4FE&dates=B57EDC" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeynahalil&bg_color=050505&color=D8B4FE&line=8A2BE2&point=B57EDC&hide_border=true&area=true" width="97%" />
 
 </div>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
+
+<div align="center">
+
+<sub>Engineering the systems that will think, perceive, and act on their own.</sub>
+
+</div>
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
