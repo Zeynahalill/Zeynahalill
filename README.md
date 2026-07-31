@@ -3,6 +3,8 @@
 <img src="./assets/hero-banner.png" width="100%" alt="AI research laboratory banner"/>
 
 <br/>
+<br/>
+<br/>
 
 <a href="https://github.com/zeynahalil">
   <img src="https://komarev.com/ghpvc/?username=zeynahalil&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge&labelColor=050505" />
@@ -314,20 +316,16 @@ AI-driven autonomous platforms fusing robotics, perception, and real-time decisi
 </div>
 
 <br/>
+## 🧠 AI SYSTEM CORE
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
+<div align="center">
 
+<img src="./assets/ai-core.gif" width="90%" alt="AI Autonomous Intelligence Core"/>
+
+</div>
 <div align="center">
 
 <sub>Engineering the systems that will think, perceive, and act on their own.</sub>
 
 </div>
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
-
-<div align="center">
-
-<sub>Engineering the systems that will think, perceive, and act on their own.</sub>
-
-</div>
